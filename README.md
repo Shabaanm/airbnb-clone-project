@@ -16,5 +16,9 @@ Users- Clients accounts that will be stored on the programme sql database
 Bookings- How the client makes bookings on the system
 Gallery- picture catalogue of the different hotels and houses that are available
 Payments-how the system makes payments, stores account information and process credit cards
+## Feature Breakdown
+Payment system- a payment process system that manages how the customers pay for the services that their booking on the networ. 
+Property management- How the houses or hotels are managed in the airbnb network
+Booking system- management and scheduling of the booking system, how the customers book and and how the hotel or house owners view booking and make reservations on the system
 # airbnb-clone-project
 
