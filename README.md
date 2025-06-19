@@ -25,7 +25,8 @@ Authentication- User credential verification and information confirmation.
 Autharasation - username and password verification, permissions and access related
  HTTPS/SSL/TLS - data transmission security, verification, packet data loss prevention
  and Throttling
+ ## CI/CD Pipeline
+ CI/CD pipelines automate the process of building, testing, and deploying applications, allowing developers to deliver updates quickly and  reliably. Continuous Integration (CI) ensures that new code is automatically tested and merged, while Continuous Delivery/Deployment (CD)  prepares and pushes code to production with minimal manual effort. Common tools used in CI/CD pipelines include GitHub Actions, GitLab CI/CD, Jenkins, and Travis CI for automation; Docker for containerization; and Kubernetes, AWS, or Azure for deployment. These tools help streamline development, reduce bugs, and support faster, safer software releases.
  
-
 # airbnb-clone-project
 
