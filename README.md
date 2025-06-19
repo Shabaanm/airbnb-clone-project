@@ -11,5 +11,10 @@ Java- to run and perform scripts
 Phython- to automate tasks
 Django-this is for the Python framework
 Postgresql-This is for the database engine
+## Database Design
+Users- Clients accounts that will be stored on the programme sql database
+Bookings- How the client makes bookings on the system
+Gallery- picture catalogue of the different hotels and houses that are available
+Payments-how the system makes payments, stores account information and process credit cards
 # airbnb-clone-project
 
