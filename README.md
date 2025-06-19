@@ -20,7 +20,7 @@ Payments-how the system makes payments, stores account information and process c
 Payment system- a payment process system that manages how the customers pay for the services that their booking on the networ. 
 Property management- How the houses or hotels are managed in the airbnb network
 Booking system- management and scheduling of the booking system, how the customers book and and how the hotel or house owners view booking and make reservations on the system
-## Api Security
+## API Security
 Authentication- User credential verification and information confirmation. 
 Autharasation - username and password verification, permissions and access related
  HTTPS/SSL/TLS - data transmission security, verification, packet data loss prevention
